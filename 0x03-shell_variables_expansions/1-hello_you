@@ -1,2 +1,2 @@
-#!/bin/bash; 
-echo "Hello ${SUDO_USER:-$(whoami)}"
+#!/bin/bash
+echo "hello $USER"
